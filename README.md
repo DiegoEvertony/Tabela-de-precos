@@ -40,9 +40,9 @@ Utilizei as seguintes tecnologias para desenvolver este projeto:
 1. Clonar o repositório:
    
 ```
-git clone https://github.com/DiegoEvertony/tabela-de-precos.git
+git clone https://github.com/DiegoEvertony/Tabela-de-precos.git
 
-cd tabela-de-precos
+cd Tabela-de-precos
 ```
 
 2. Instalar dependências:
